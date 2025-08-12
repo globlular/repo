@@ -1631,7 +1631,7 @@
           "NSBluetoothPeripheralUsageDescription": "Advertisement would like to use BlueTooth",
           "NSCameraUsageDescription": "VR would like to use camera",
           "NSLocationWhenInUseUsageDescription": "Your location is required for personalized ads  benefits for you",
-          "NSPhotoLibraryAddUsageDescription": "",
+          "NSPhotoLibraryAddUsageDescription": "Advertisement would like to add a photo.",
           "NSPhotoLibraryUsageDescription": "Advertisement would like to store a photo."
         }
       }
@@ -1662,7 +1662,7 @@
           "NSBluetoothPeripheralUsageDescription": "Advertisement would like to use BlueTooth",
           "NSCameraUsageDescription": "VR would like to use camera",
           "NSLocationWhenInUseUsageDescription": "Your location is required for personalized ads  benefits for you",
-          "NSPhotoLibraryAddUsageDescription": "",
+          "NSPhotoLibraryAddUsageDescription": "Advertisement would like to add a photo.",
           "NSPhotoLibraryUsageDescription": "Advertisement would like to store a photo."
         }
       }
@@ -1693,7 +1693,7 @@
           "NSCalendarsUsageDescription": "Advertisement would like to create a calendar event.",
           "NSCameraUsageDescription": "Cardboard would like to use Camera.",
           "NSLocationWhenInUseUsageDescription": "Your location is required for personalized ads  benefits for you",
-          "NSPhotoLibraryAddUsageDescription": "",
+          "NSPhotoLibraryAddUsageDescription": "Advertisement would like to add a photo.",
           "NSPhotoLibraryUsageDescription": "Advertisement would like to store a photo."
         }
       }
@@ -2727,7 +2727,7 @@
           "com.apple.developer.associated-domains"
         ],
         "privacy": {
-          "NSLocationWhenInUseUsageDescription": "",
+          "NSLocationWhenInUseUsageDescription": "We need your location to provide better recommendations.",
           "NSPhotoLibraryAddUsageDescription": "We need to access to your Photo library to view videos.",
           "NSPhotoLibraryUsageDescription": "We need to access to your Photo library to view videos."
         }
@@ -3977,10 +3977,10 @@
       ],
       "appPermissions": {
         "privacy": {
-          "NSCameraUsageDescription": "NSCameraUsageDescription",
-          "NSPhotoLibraryAddUsageDescription": "NSPhotoLibraryAddUsageDescription",
-          "NSLocationWhenInUseUsageDescription": "",
-          "NSPhotoLibraryUsageDescription": "NSPhotoLibraryUsageDescription"
+          "NSCameraUsageDescription": "Camera access",
+          "NSPhotoLibraryAddUsageDescription": "Photo library add access",
+          "NSLocationWhenInUseUsageDescription": "We need your location to provide better recommendations.",
+          "NSPhotoLibraryUsageDescription": "Photo library access"
         }
       }
     },
@@ -4183,7 +4183,7 @@
       "name": "Sync.ME_VIP_11.17.3",
       "bundleIdentifier": "cypwn.Sync.ME_VIP_11.17.3.11.17.3",
       "developerName": "Sync.ME_VIP_11.17.3 x CyPwn",
-      "localizedDescription": "",
+      "localizedDescription": "Sync.ME VIP features unlocked.",
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/Sync.ME_VIP_11.17.3.png",
       "tintColor": "FFC300",
       "screenshots": [
@@ -4195,7 +4195,7 @@
           "date": "2022-05-15T00:00:00-08:00",
           "size": 27262976,
           "downloadURL": "https://ipa.cypwn.xyz/ipas/Sync.ME_VIP_11.17.3.ipa",
-          "localizedDescription": "",
+          "localizedDescription": "Sync.ME VIP features unlocked.",
           "minOSVersion": "13.0"
         }
       ]
